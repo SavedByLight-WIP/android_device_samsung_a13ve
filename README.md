@@ -15,12 +15,12 @@ repo init --depth=1 -u https://github.com/minimal-manifest-twrp/platform_manifes
 
 ## Clone a13ve repo
 ```bash
-git clone https://github.com/SavedByLight-twrp/android_device_samsung_a13ve device/samsung/a13ve
+git clone https://github.com/teamwin/android_device_samsung_a13ve device/samsung/a13ve
 ```
 
 ## Clone a13ve kernel
 ```bash
-git clone https://github.com/edward0181/android_kernel_samsung_a13ve kernel/samsung/a13ve
+git clone https://github.com/physwizz/A137f-U-u6-u8 kernel/samsung/a13ve
 ```
 
 ## Sync
